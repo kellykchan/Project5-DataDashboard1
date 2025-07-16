@@ -4,7 +4,7 @@ Submitted by: **Kelly Chan**
 
 This web app: **lets you easily browse through all the Rick and Morty characters. You can search by name, filter by status or species, and even pick how many episodes a character shows up in. It also shows some quick stats like how many characters there are and status of those characters. Plus, you get to see their pictures and basic info in a simple, clean layout. It’s a fun way to check out your favorite (or weirdest) characters from the show!**
 
-Time spent: **2** hours spent in total
+Time spent: **1.5** hours spent in total
 
 ## Required Features
 
